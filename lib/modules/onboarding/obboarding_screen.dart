@@ -44,7 +44,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
               ),
             ),
           )
-          : SizedBox(),
+          : Container(),
         ],
       ),
       body: PageView.builder(
