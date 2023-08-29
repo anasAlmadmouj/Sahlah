@@ -25,7 +25,7 @@ class ImageAssets{
   static const String filletFishOffer = '$imagePath/filletFishOffer.png';
   static const String beefBurger = '$imagePath/beefBurger.png';
   static const String simmerBeef = '$imagePath/simmerBeef.png';
-  static const String salmon = '$imagePath/salmonVig.png';
+  static const String salmon = '$imagePath/salmon.png';
   static const String chickenSalad = '$imagePath/chickenSalad.png';
   static const String roastChicken = '$imagePath/roastChicken.png';
   static const String boil = '$imagePath/boil.png';
